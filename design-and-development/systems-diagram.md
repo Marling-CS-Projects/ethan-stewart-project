@@ -12,7 +12,7 @@ Usability is an important aspect to my project as I want it to be accessible to 
 
 ### Effective
 
-Users can achieve the goal with completeness and accuracy. To do this, I will make it easy for the users to realize that they need to reach a goal in order to complete a level. I will make this goal clear to see so there is no confusion over where the players need to go.
+Users can achieve the task with completeness and accuracy. To do this, I will make it easy for the users to realize that they need todo a certain task in order to progress further through the application. I will make this task clear to see so there is no confusion over what the users need to do.
 
 #### Aims
 
