@@ -1,5 +1,7 @@
 # 2.1 Design Frame
 
+<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption><p>Flow diagram for project</p></figcaption></figure>
+
 ## Systems Diagram
 
 ![](https://github.com/Marling-School/alevel-project-template/blob/docs/.gitbook/assets/System%20Diagram.jpg)
