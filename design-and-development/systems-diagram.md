@@ -12,51 +12,50 @@ Usability is an important aspect to my project as I want it to be accessible to 
 
 ### Effective
 
-Users can achieve the task with completeness and accuracy. To do this, I will make it easy for the users to realize that they need todo a certain task in order to progress further through the application. I will make this task clear to see so there is no confusion over what the users need to do.
+Users can achieve the task with completeness and accuracy. To do this, I will make it easy for the users to understand what they need to do to get the most out of the app. I've mentioned this previously, about making the site simple to navigate.
 
 #### Aims
 
-* Create a clear goal to reach to determine the end of a level
-* Create a clear goal for any multiplayer modes
+* Make the site easy to navigate so the user can get the most from the app
+* Provide sufficient information but ensure that its only essential
 
 ### Efficiency
 
-The speed and accuracy to which a user can complete the goal. To do this, I will create a menu system which is easy to navigate through in order for to find what you are looking for. The information which is more important can be found with less clicks.
+The speed and ease of which a user can complete a task. To do this, I will create a menu system which is easy to navigate through in order for to find what you are looking for. The information which is more important can be found with less clicks.
 
 #### Aims
 
-* Create a menu system that is quick and easy to navigate through
-* Create a controls system that isn't too complicated but allows the player to do multiple actions
+* Display essential information on the home page
+* Reduce the number of clicks to get to a certain feature
 
 ### Engaging
 
-The solution is engaging for the user to use. To do this, I will create 5 levels and an online multiplayer mode to keep the players engaged and allow them to have fun while playing the game. Using vector style art will also make the game nicer to look at than blocks, so will draw more people in, keeping them engaged.
+The solution is engaging for the user to use. To do this, I will implement a multitude of features which will keep users engaged with the app and willing to use it more. Using simple animations for button clicks and movements will make the website more engaging and interesting to use.
 
 #### Aims
 
-* Create a series of levels to work through
-* Create a multiplayer mode to play
-* Incorporate a style of game art the suits the game
+* Allow the user to set a goal to work towards.
+* Make the site user friendly by incorporating basic website animations
 
 ### Error Tolerant
 
-The solution should have as few errors as possible and if one does occur, it should be able to correct itself. To do this, I will write my code to manage as many different game scenarios as possible so that it will not crash when someone is playing it.
+The solution should have as few errors as possible and if one does occur, it should be able to correct itself. To do this, I will write my code to manage as many different scenarios as possible so that it will not crash when someone is using it.
 
 #### Aims
 
-* The game doesn't crash
-* The game does not contain any bugs that damage the user experience
+* The solution doesn't crash
+* The solution does not contain any bugs that damage the user experience
 
 ### Easy To Learn
 
-The solution should be easy to use and not be over complicated. To do this, I will create simple controls for the game. I will make sure that no more controls are added than are needed in order to keep them as simple as possible for the players.
+The solution should be easy to use and not be over complicated. To do this, I will create simple layout for the solution. I will make sure that no more information is added than is need, as to keep things simple for the user.
 
 #### Aims
 
-* Create a list of controls for the game
-* Create an in-level guide that helps players learn how to play the game
+* It should not take more than 5 minutes to understand where you can access all the features.
+* Add a basic guide to the site to make it easier to navigate.
 
-## Pseudocode for the Game
+## Pseudocode for the Solution
 
 ### Pseudocode for game
 
