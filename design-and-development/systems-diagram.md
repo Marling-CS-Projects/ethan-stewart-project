@@ -1,6 +1,6 @@
 # 2.1 Design Frame
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption><p>Flow diagram for project</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption><p>Flow diagram for project</p></figcaption></figure>
 
 ## Systems Diagram
 
