@@ -2,27 +2,26 @@
 
 ## Design
 
+In the first cycle I have decided to make a basic layout for a home page with very limited functionality. I have done this with a combination of HTML and CSS. I am keeping it simple as the features of this project are a priority, so any addition customisation will be handled in future cycles.
+
 ### Objectives
 
-\[describe the cycle]
+Create a simple home page which the user can use to navigate to the tools of this application.
 
-* [x] Do a thing
-* [x] Do another thing
+* [x] Create a layout for the home page
+* [x] Add simple customisation to improve user experience.
 
 ### Usability Features
 
 ### Key Variables
 
-| Variable Name | Use                   |
-| ------------- | --------------------- |
-| foo           | does something useful |
+| Variable Name | Use |
+| ------------- | --- |
+|               |     |
 
 ### Pseudocode
 
 ```
-procedure do_something
-    
-end procedure
 ```
 
 ## Development
