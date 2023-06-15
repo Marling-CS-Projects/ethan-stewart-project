@@ -124,17 +124,17 @@ I also added a button customisation to the size and style of the button below. T
 
 ### Challenges
 
-Description of challenges
+I experienced no real challenges with this cycle. The only main challenge was deciding what method to use to achieve certain outcomes. This involved finding the right way to make the background image cover the who page and making the buttons the same size
 
 ## Testing
 
-Evidence for testing
+{% file src="../.gitbook/assets/ocr-homepage-eveidence.mp4" %}
+Testing evidence using the home page
+{% endfile %}
 
 ### Tests
 
-| Test | Instructions  | What I expect     | What actually happens | Pass/Fail |
-| ---- | ------------- | ----------------- | --------------------- | --------- |
-| 1    | Run code      | Thing happens     | As expected           | Pass      |
-| 2    | Press buttons | Something happens | As expected           | Pass      |
-
-### Evidence
+| Test | Instructions  | What I expect             | What actually happens | Pass/Fail |
+| ---- | ------------- | ------------------------- | --------------------- | --------- |
+| 1    | Run code      | Website loads up          | As expected           | Pass      |
+| 2    | Press buttons | Take me to indicated page | As expected           | Pass      |
