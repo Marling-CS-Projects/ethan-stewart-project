@@ -27,7 +27,7 @@ A basic web page that has three interactable buttons which will take the user to
 
 ### Example format
 
-<figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (4) (2).png" alt=""><figcaption></figcaption></figure>
 
 ## Development
 
