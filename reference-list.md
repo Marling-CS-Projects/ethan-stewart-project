@@ -31,3 +31,5 @@ The Economist, 2019. The stockmarket is now run by computers, algorithms and pas
 Time-Weighted Average Price (TWAP) \[WWW Document], n.d. . River Financial. URL https://river.com/learn/terms/t/time-weighted-average-price-twap (accessed 4.13.23).&#x20;
 
 Welcome to Flask — Flask Documentation (3.0.x) \[WWW Document], n.d. URL https://flask.palletsprojects.com/en/3.0.x/ (accessed 10.13.23).
+
+Griffis, M., Epstein, L., 2016. The Risks of Trading \[WWW Document]. dummies. URL https://www.dummies.com/article/business-careers-money/personal-finance/investing/general-investing/the-risks-of-trading-159994/ (accessed 10.20.23).
