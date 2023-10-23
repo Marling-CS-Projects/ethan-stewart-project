@@ -13,7 +13,7 @@ Create a simple home page which the user can use to navigate to the tools of thi
 
 ### Usability Features
 
-A basic web page that has three interactable buttons which will take the user to three different pages. Buttons will have some css to prevent colouration when clicked
+A basic web page that has three interactable buttons which will take the user to three different pages. Buttons will have some css to prevent colouration when clicked. Although the css is mostly for aesthetics it is still an important feature when linked to improved user experience.
 
 ### Key Variables
 
