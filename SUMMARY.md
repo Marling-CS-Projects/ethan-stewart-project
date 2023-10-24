@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Some Generic Project](README.md)
+* [Stock trade simulation](README.md)
 * [Reference List](reference-list.md)
 
 ## 1 Analysis <a href="#analysis" id="analysis"></a>
